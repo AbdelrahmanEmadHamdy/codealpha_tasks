@@ -1,0 +1,16 @@
+Task 1 - Basic Network Sniffer
+
+In this task, I created a basic network sniffer using Python.
+
+What it does:
+- Captures IP packets from the network.
+- Extracts source and destination IP addresses.
+- Displays the protocol used.
+
+Purpose:
+- To understand how data travels over a network.
+- To learn about raw sockets and IP headers.
+
+Note:
+- This script works best on Windows with admin privileges.
+- The IP address must be your local machine IP.
